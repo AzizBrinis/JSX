@@ -1,0 +1,18 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap');
+
+.red {
+    color: red;
+}
+
+.title {
+    font-family: 'Dancing Script', cursive;
+
+}
+.position {
+    text-align: center;
+}
+img {
+    border-radius: 100%;
+    width: 10%;
+}
